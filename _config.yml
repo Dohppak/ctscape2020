@@ -10,28 +10,27 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
-baseurl: "/zeppelin"
-url: "https://gdg-x.github.io"
+email: "#"
+description: "CTSCAPE is culture technology event"
+baseurl: "/ctscape2020"
+url: "http://dohppak.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+googleAnalyticsTrackingId: "#"
+googleAnalyticsSiteUrl: "#"
+siteVerification: "#"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
-organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerName: "CT Scape"
+organizerAlternateName: "Graduate School of Culture Technology"
+organizerDescription: "KAIST 문화기술대학원은 국내 문화산업을 국제경쟁력 있는 미래 국가기간산업으로의 육성하기 위하여 2005년 문화체육관광부의 지원을 받아 설립되었습니다. 첨단기술(과학기술 및 IT)을 기반으로 문화예술, 인문사회학을 접목한 새로운 융합형 글로벌 고급인력 양성과 문화콘텐츠산업에 필요한 원천기술 개발을 통해 국내 문화콘텐츠산업 발전 및 글로벌화에 기여하고자 합니다."
+organizerEmail: "#"
+organizerLogo: "/img/seo/KAIST_CT_KE_RGB.png"
+organizerLink: "https://ct.kaist.ac.kr/main.php?lang=2"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+metaKeywords: "문화기술대학원, CT, Culture Technology, KAIST, KAIST 문화기술대학원, 문화기술, CTSCAPE"
+twitterAccount: "#"
+socialImageSrcGooglePlus: "/img/seo/KAIST_CT_KE_RGB.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
@@ -46,41 +45,41 @@ navigationLinks:
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
+#  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+#  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://bit.ly/dfua-c4p", text: "참가신청하기"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://bit.ly/dfua-c4p", text: "참가신청하기"}
 
 # Hero Block
-heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
+heroImage: "hero.png"
+heroTitle: "CTSCAPE <typeout> 2020"
+eventDate: "April 2 - 3, 2020"
+typeoutTextValues: '"", "Create", "Develop", "Understand", "Gather", "Discover", "Share", "Spread", "Collaborate"'
+typeoutFallback: "Create"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "http://bit.ly/dfua-c4p", text: "참가신청하기"}
+#  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About CTSCAPE"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "SymCT", image: "Symct1.JPG", text: "국제 심포지엄을 통해 문화기술의 연구분야를 확인할 수 있습니다." }
+ - {title: "OpenCT", image: "poster1.JPG", text: "각 연구실의 연구주제들을 확인하면서 제대로 문화기술대학원을 즐길수 있습니다." }
+ - {title: "Admission", image: "talk.JPG", text: "문화기술대학원 백남준 홀에서는 대학원 입시 설명회, 졸업생 토크를 진행하며, CT가든에서는 입시 설명회 부스와 졸업생 부스를 통하여 해당 내용을 상시 전시 예정입니다." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "350", specialCharacter: "+", info: "Attendence", detail: "from everywhere"}
+ - {count: "48", specialCharacter: "+", info: "Student Poster", detail: "of pure Google technologies"}
+ - {count: "20", specialCharacter: "+", info: "Student Presentation", detail: "from country and beyond"}
+ - {count: "4", specialCharacter: "", info: "Keynote", detail: "plus entertainment lounge"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "About Keynote"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -90,19 +89,19 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-25T10:00"
+eventLocationName: "KAIST N25 문화기술대학원"
+eventLocationLink: "https://www.google.com/maps/place/%ED%95%9C%EA%B5%AD%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0%EC%9B%90+%EB%AC%B8%ED%99%94%EA%B8%B0%EC%88%A0%EB%8C%80%ED%95%99%EC%9B%90/@36.3739273,127.3606198,17z/data=!3m1!4b1!4m5!3m4!1s0x35654bca35e48eef:0x9e429385f20a98a6!8m2!3d36.3739273!4d127.3628085"
+eventStreetAddress: "대한민국 대전광역시 유성구 구성동 대학로 291"
+eventAddressLocality: "유성구"
+eventAddressLocalityRegion: "대전광역시"
+eventPostalCode: "#"
+eventAddressCountry: "South Korea"
+eventStartTime: "2020-04-02T10:00"
 eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventEndTime: "2020-04-03T20:00"
+eventPlaceCoordinates: "36.3739408, 127.3606154"
+mapCenterCoordinates: "36.3739408, 127.3606154"
+mapMobileCenterCoordinates: "36.3739408, 127.3606154"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -110,8 +109,8 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "문화기술대학원 N25동"
+venueFeatures: ["N25동 입구", "N25동 원광원 홀", "N25동 또 다른대"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
