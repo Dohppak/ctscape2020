@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Digital Avatars for All: Interactive Face and Hair"
+date:   2020-04-02 10:30:00
+isStaticPost: false
+---
+- Prof. Kun Zhou
+- State Key Lab of CAD&CG, Zhejiang University(Computer Graphics)
+- May 23, 10:30-11:30
+- Academic Cultural Complex
+
+# Digital Avatars for All: Interactive Face and Hair
+Kun Zhou is a Cheung Kong Professor and the Director of the State Key Lab of CAD&CG at Zhejiang University. Earlier, he was a Lead Researcher of the Internet Graphics Group at Microsoft Research Asia. He received his BS and PhD degrees from Zhejiang University in 1997 and 2002, respectively. His research interests include geometry processing, photorealistic rendering, computer animation and GPU parallel computing. He has published more than 60 papers at ACM SIGGRAPH/TOG in these areas. He is/was an associate editor of IEEE Transactions on Visualization and Computer Graphics, ACM Transactions on Graphics and The Visual Computer, and serves on the editorial advisory board of IEEE Spectrum. He is a Fellow of IEEE.

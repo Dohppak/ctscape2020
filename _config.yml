@@ -66,17 +66,17 @@ heroButtons:
 # About Block
 aboutTitle: "About CTSCAPE"
 aboutBlock:
- - {title: "SymCT", image: "Symct1.JPG", text: "국제 심포지엄을 통해 문화기술의 연구분야를 확인할 수 있습니다." }
- - {title: "OpenCT", image: "poster1.JPG", text: "각 연구실의 연구주제들을 확인하면서 제대로 문화기술대학원을 즐길수 있습니다." }
- - {title: "Admission", image: "talk.JPG", text: "문화기술대학원 백남준 홀에서는 대학원 입시 설명회, 졸업생 토크를 진행하며, CT가든에서는 입시 설명회 부스와 졸업생 부스를 통하여 해당 내용을 상시 전시 예정입니다." }
+ - {title: "SymCT", image: "Symct2.JPG", text: "국제 심포지엄을 통해 문화기술의 연구분야를 확인할 수 있습니다." }
+ - {title: "OpenCT", image: "poster2.JPG", text: "각 연구실의 연구주제들을 확인하면서 제대로 문화기술대학원을 즐길수 있습니다." }
+ - {title: "Admission", image: "talk2.JPG", text: "문화기술대학원 백남준 홀에서는 대학원 입시 설명회, 졸업생 토크를 진행하며, CT가든에서는 입시 설명회 부스와 졸업생 부스를 통하여 해당 내용을 상시 전시 예정입니다." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "Attendence", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "Student Poster", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "Student Presentation", detail: "from country and beyond"}
- - {count: "4", specialCharacter: "", info: "Keynote", detail: "plus entertainment lounge"}
+ - {count: "350", specialCharacter: "+", info: "Attendence", detail: "CTSCAPE에 참여한 누적 참여자 입니다."}
+ - {count: "48", specialCharacter: "+", info: "Student Poster", detail: "CT학생 포스터입니다."}
+ - {count: "20", specialCharacter: "+", info: "Student Presentation", detail: "학생들의 Presentation입니다."}
+ - {count: "4", specialCharacter: "", info: "Keynote", detail: "SymCT에서 진행될 Keynote Presentation입니다."}
 
 # Latest News Block
 latestNewsTitle: "About Keynote"

@@ -1,44 +1,55 @@
 - 
   id: 0
-  name: "Dmytro"
-  surname: "Danylyk"
-  company: "Lemberg Solutions Limited"
-  title: "Android Developer"
-  thumbnailUrl: DmytroDanylyk.jpg
+  name: "Byungjoo"
+  surname: "LEE"
+  company: "GSCT, KAIST"
+  title: "Interactive Media Lab"
+  bio: "Gamer Modeling, Human-Computer Interaction,Contemporary Media Art"
+  thumbnailUrl: leebj.jpg
+  rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "Website", link: http://kiml.org//"}
 - 
   id: 1
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  company: "Nravo, GDG Lviv"
-  title: "Team Lead, Unity 3D Developer"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Juhan"
+  surname: "Nam"
+  company: "GSCT, KAIST"
+  title: "Music and Audio Computing Lab"
+  bio: 'I love Professor'
+  thumbnailUrl: juhan_nam.jpg
+  rockstar: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    # - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    # - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    - {name: "Website", link: "http://mac.kaist.ac.kr/"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  company: "ELEKS, GDG Lviv"
-  title: "R&D Engineer"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Sung-Hee"
+  surname: "LEE"
+  company: "GSCT, KAIST"
+  title: "Motion Computing Lab"
+  bio: "Computer Animation, Virtual Human/Avatar
+"
+  thumbnailUrl: leesh.jpg
+  rockstar: true
+  ribbon: 
+    # - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+    # - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    # - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
+    # - {name: "twitter", link: "https://twitter.com/mherych"}
 - 
   id: 3
-  name: "Oleh"
-  surname: "Zasadnyy"
-  company: "EPAM Systems, GDG Lviv"
-  title: "Junior Software Engineer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Jaehong"
+  surname: "AHN"
+  company: "GSCT, KAIST"
+  title: "Digital Heritage"
+  bio: "Digital Heritage"
+  thumbnailUrl: ahnjh.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
+    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+-
