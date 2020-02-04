@@ -7,8 +7,6 @@
   bio: "Gamer Modeling, Human-Computer Interaction,Contemporary Media Art"
   thumbnailUrl: saebyul_park.jpg
   rockstar: true
-  social: 
-    - {name: "Website", link: http://kiml.org//"}
 - 
   id: 4
   name: "Juhan"
@@ -61,8 +59,6 @@
   bio: "Gamer Modeling, Human-Computer Interaction,Contemporary Media Art"
   thumbnailUrl: Minsuk_Choi.jpg
   rockstar: true
-  social: 
-    - {name: "Website", link: http://kiml.org//"}
 - 
   id: 8
   name: "Juhan"
@@ -70,7 +66,7 @@
   company: "GSCT, KAIST"
   title: "Music and Audio Computing Lab"
   bio: 'I love Professor'
-  thumbnailUrl: Yoogin_Kim.jpg
+  thumbnailUrl: juhan_nam.jpg
   rockstar: true
   social: 
     # - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
@@ -94,6 +90,58 @@
     # - {name: "twitter", link: "https://twitter.com/mherych"}
 - 
   id: 10
+  name: "Jaehong"
+  surname: "AHN"
+  company: "GSCT, KAIST"
+  title: "Digital Heritage"
+  bio: "Digital Heritage"
+  thumbnailUrl: Seungheon_Doh.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
+    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+- 
+  id: 11
+  name: "Byungjoo"
+  surname: "LEE"
+  company: "GSCT, KAIST"
+  title: "Interactive Media Lab"
+  bio: "Gamer Modeling, Human-Computer Interaction,Contemporary Media Art"
+  thumbnailUrl: Minsuk_Choi.jpg
+  rockstar: true
+- 
+  id: 12
+  name: "Juhan"
+  surname: "Nam"
+  company: "GSCT, KAIST"
+  title: "Music and Audio Computing Lab"
+  bio: 'I love Professor'
+  thumbnailUrl: juhan_nam.jpg
+  rockstar: true
+  social: 
+    # - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    # - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    - {name: "Website", link: "http://mac.kaist.ac.kr/"}
+- 
+  id: 13
+  name: "Sung-Hee"
+  surname: "LEE"
+  company: "GSCT, KAIST"
+  title: "Motion Computing Lab"
+  bio: "Computer Animation, Virtual Human/Avatar
+"
+  thumbnailUrl: taejun_kim.jpg
+  rockstar: true
+  ribbon: 
+    # - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+    # - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+  social: 
+    # - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
+    # - {name: "twitter", link: "https://twitter.com/mherych"}
+- 
+  id: 14
   name: "Jaehong"
   surname: "AHN"
   company: "GSCT, KAIST"

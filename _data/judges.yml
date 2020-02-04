@@ -1,21 +1,16 @@
-- 
+ - 
   id: 0
   name: "Byungjoo"
   surname: "LEE"
   company: "GSCT, KAIST"
   title: "Interactive Media Lab"
-  bio: "Gamer Modeling, Human-Computer Interaction,Contemporary Media Art"
   thumbnailUrl: leebj.jpg
-  rockstar: true
-  social: 
-    - {name: "Website", link: http://kiml.org//"}
 - 
   id: 1
   name: "Juhan"
   surname: "Nam"
   company: "GSCT, KAIST"
   title: "Music and Audio Computing Lab"
-  bio: 'I love Professor'
   thumbnailUrl: juhan_nam.jpg
   rockstar: true
   social: 
@@ -28,13 +23,11 @@
   surname: "LEE"
   company: "GSCT, KAIST"
   title: "Motion Computing Lab"
-  bio: "Computer Animation, Virtual Human/Avatar
-"
   thumbnailUrl: leesh.jpg
   rockstar: true
   ribbon: 
-    # - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    # - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social: 
     # - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
     # - {name: "twitter", link: "https://twitter.com/mherych"}
@@ -44,7 +37,6 @@
   surname: "AHN"
   company: "GSCT, KAIST"
   title: "Digital Heritage"
-  bio: "Digital Heritage"
   thumbnailUrl: ahnjh.jpg
   rockstar: true
   ribbon:
