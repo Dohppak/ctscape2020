@@ -79,12 +79,12 @@ statisticBlock:
  - {count: "4", specialCharacter: "", info: "Keynote", detail: "SymCT에서 진행될 Keynote Presentation입니다."}
 
 # Latest News Block
-latestNewsTitle: "About Keynote"
+latestNewsTitle: "Students Poster Details"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 6
-rockstarSpeakersTitle: "Students Poster Details"
+rockstarSpeakersCount: 4
+rockstarSpeakersTitle: "About Keynote"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
